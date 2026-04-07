@@ -74,6 +74,9 @@ git clone https://github.com/humanitarians-ai/brandguideai.git
 cd brandguideai
 ```
 
+Download ML models
+simamese_model.pt `https://drive.google.com/file/d/1lxz9E2I35sx2Tg237h8IFP8RKEoY5jRd/view?usp=drive_link` -> backend/data/models
+
 ### 2. Configure environment variables
 
 ```bash
